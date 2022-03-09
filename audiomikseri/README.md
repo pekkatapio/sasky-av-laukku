@@ -7,12 +7,14 @@ Käytetään äänen sisääntulon säätämiseen ja tietokoneeseen siirtämisee
 * XLR johto [vastaanottimesta](../vastaanotin/README.md).
 * mini USB johto
 
-### kuvat
-<p align="center">
-  <img src="back.png">
-</p>
+### päältä
 <p align="center">
   <img src="top.png">
+</p>
+
+### takaa
+<p align="center">
+  <img src="rear.png">
 </p>
 
 ## käyttö

@@ -6,12 +6,14 @@ käyttötarkoitusta ei varmaan tarvitse selittää.
 * SDI kaapeli
 * virtajohto
 
-## kuvat
+### Kameran tarvikkeet
 <p align="center">
-  <img src="back.png">
+  <img src="contents.jpg">
 </p>
+
+### SDI OUT ja HDMI OUT
 <p align="center">
-  <img src="side.png">
+  <img src="sdi-hdmi-out.jpg">
 </p>
 
 
@@ -20,5 +22,7 @@ käyttötarkoitusta ei varmaan tarvitse selittää.
 2. kytke SDI johto kameran sivulta löytyvän luukun taakse.
 3. yhdistä kamera [videomikseriin](../videomikseri/README.md)
 
-
-
+## Materiaalit
+* [Tuotesivu](https://www.canon.fi/video-cameras/xf-405-and-xf-400/)
+* [Pikaopas](quick-guide-fi.pdf)
+* [Käyttöopas](manual-fi.pdf)
