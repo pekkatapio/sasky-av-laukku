@@ -1,10 +1,10 @@
 ## av salkku
-* kamera
-* video mixeri
-* audio mixeri
-* mikrofoni vastaanotin
-* streamdeck
-* iskunkestävä mikrofoni
+* [kamera]()
+* [video mixeri](videomikseri/README.md)
+* [audio mixeri](audiomikseri/README.md)
+* [mikrofoni vastaanotin](vastaanotin/README.md)
+* [streamdeck](streamdeck/README.md)
+* [iskunkestävä mikrofoni](mikrofoni/README.md)
 
 ## kuva
 <p align="center">
