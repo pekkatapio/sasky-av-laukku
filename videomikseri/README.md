@@ -1,5 +1,20 @@
-# Videomikseri
+# video mixeri
+käytetään kameran videosignaalin tietokoneeseen siirtoon.
 
-![Etupuoli](front.jpg)
+## vaatii
+* SPI kaapelin
+* Kameran
+* virtajohdon (sekä kameraan että mixeriin)
 
-![Takapuoli](back.jpg)
+### etuosa
+<p align="center">
+  <img src="front.jpg">
+</p>
+
+### takaosa
+<p align="center">
+  <img src="back.jpg">
+</p>
+
+### käyttö
+
