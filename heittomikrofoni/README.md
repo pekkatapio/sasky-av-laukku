@@ -7,12 +7,12 @@
 
 ### edestä
 <p align="center">
-  <img src="front.png">
+  <img src="front.jpg">
 </p>
 
 ### kytkentä
 <p align="center">
-  <img src="wiring.png">
+  <img src="wiring.jpg">
 </p>
 
 ## käyttö
