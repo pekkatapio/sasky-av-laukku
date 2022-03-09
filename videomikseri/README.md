@@ -2,7 +2,7 @@
 käytetään kameran videosignaalin tietokoneeseen siirtoon.
 
 ## vaatii
-* SPI kaapelin
+* SDI kaapelin
 * Kameran
 * virtajohdon (sekä kameraan että mixeriin)
 
