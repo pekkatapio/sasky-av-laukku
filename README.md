@@ -1,5 +1,5 @@
 ## av salkku
-* [kamera]()
+* [kamera](kamera/README.md)
 * [video mixeri](videomikseri/README.md)
 * [audio mixeri](audiomikseri/README.md)
 * [mikrofoni vastaanotin](vastaanotin/README.md)
