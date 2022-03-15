@@ -14,16 +14,6 @@ käytetään videon suoratoiston tai nauhoituksen tekemiseen.
 </details>
 
 <details>
-    <summary> Suoratoisto </summary>
-    <ul>1. mene oikean yläreunan <code>file</code> osioon. </ul>
-    <ul>2. valitse <code>settings</code>.</ul>
-    <ul>3. mene <code>stream</code> osioon.</ul>
-    <ul>4. valitse <code>connect account</code>.</ul>
-    <ul>5. kirjadu twitch tiliin selaimen kautta.</ul>
-    <ul>6. mene takaisin pääruutuun ja paina start streaming.</ul>
-</details>
-
-<details>
     <summary> canvas </summary>
     <ul>1. mene oikean alareunan <code>sources</code> osioon.</ul>
     <ul>2. lisää <code>+</code> painikkeesta <code>display capture</code>.</ul>
@@ -31,3 +21,15 @@ käytetään videon suoratoiston tai nauhoituksen tekemiseen.
     <ul>4. paina ok. </ul>
     <ul>5. voit samaan tyyliin lisätä muita lähteitä esim <a href="../kamera/README.md">kameran.</a>(Valitse OBS ohjelmassa <code> sources -> video source -> blackmagic ...</code>)</ul>
 </details>
+
+<details>
+    <summary> Suoratoisto (twitch/youtube) </summary>
+    <ul>1. mene oikean yläreunan <code>file</code> osioon. </ul>
+    <ul>2. valitse <code>settings</code>.</ul>
+    <ul>3. mene <code>stream</code> osioon.</ul>
+    <ul>4. valitse <code>service</code> kohdasta youtube tai twich.</ul>
+    <ul>5. valitse <code>connect account</code>.</ul>
+    <ul>6. kirjadu twitch tiliin selaimen kautta.</ul>
+    <ul>7. mene takaisin pääruutuun ja paina start streaming.</ul>
+</details>
+
