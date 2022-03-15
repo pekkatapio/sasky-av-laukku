@@ -29,5 +29,5 @@ käytetään videon suoratoiston tai nauhoituksen tekemiseen.
     <ul>2. lisää <code>+</code> painikkeesta <code>display capture</code>.</ul>
     <ul>3. valitse <code>create new</code> ja capture methodiksi automatic.</ul>
     <ul>4. paina ok. </ul>
-    <ul>5. voit samaan tyyliin lisätä muita lähteitä esim <a href="../kamera/README.md">kameran.</a></ul>
+    <ul>5. voit samaan tyyliin lisätä muita lähteitä esim <a href="../kamera/README.md">kameran.</a>(Valitse OBS ohjelmassa <code> sources -> video source -> blackmagic ...</code>)</ul>
 </details>
