@@ -27,7 +27,7 @@ käytetään videon suoratoiston tai nauhoituksen tekemiseen.
     <ul>1. mene oikean yläreunan <code>file</code> osioon. </ul>
     <ul>2. valitse <code>settings</code>.</ul>
     <ul>3. mene <code>stream</code> osioon.</ul>
-    <ul>4. valitse <code>service</code> kohdasta youtube tai twich.</ul>
+    <ul>4. valitse <code>service</code> kohdasta youtube tai twitch.</ul>
     <ul>5. valitse <code>connect account</code>.</ul>
     <ul>6. kirjadu twitch tiliin selaimen kautta.</ul>
     <ul>7. mene takaisin pääruutuun ja paina start streaming.</ul>
