@@ -8,9 +8,9 @@ käytetään videon suoratoiston tai nauhoituksen tekemiseen.
 
 <details>
     <summary> asennus </summary>
-    <ul>1. mene sivulle [https://obsproject.com](https://obsproject.com) ja paina Windows asennus painiketta.<ul>
-    <ul>2. avaa asennusohjelma ja pidä oletusasetukset. (paina next kaikkeen)<ul>
-    <ul>3. asennuksen jälkeen paina <code>finish</code> varmistaen että <code>Launch OBS Studio</code> on myös valittuna.<ul>
+    <ul>1. mene sivulle [https://obsproject.com](https://obsproject.com) ja paina Windows asennus painiketta.</ul>
+    <ul>2. avaa asennusohjelma ja pidä oletusasetukset. (paina next kaikkeen)</ul>
+    <ul>3. asennuksen jälkeen paina <code>finish</code> varmistaen että <code>Launch OBS Studio</code> on myös valittuna.</ul>
 </details>
 
 <details>
