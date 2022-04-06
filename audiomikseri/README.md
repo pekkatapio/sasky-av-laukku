@@ -7,29 +7,28 @@ Jos käytät [langatonta vastaanotinta](../vastaanotin/README.md), niin ota se k
 ## Mikserin käyttöön tarvitaan
 * virtajohto
 * mini USB-johto
-* XLR-johdot [vastaanottimesta](../vastaanotin/README.md)
+* (XLR-johdot [langattomien mikrofonien vastaanottimesta](../vastaanotin/README.md))
 
+### audiomikseri takaa
+<p align="center">
+  <img src="rear.svg">
+</p>
 
 ### audiomikseri päältä
 <p align="center">
   <img src="top.svg">
 </p>
 
-### audiomikseri takaa
-<p align="center">
-  <img src="rear.png">
-</p>
-
 ## Audiomikserin käyttö
-1. Kytke virtajohto takana olevaan `AC POWER IN` -porttiin.
-2. Kytke micro USB-johto takaosan porttiin ja johdon toinen pää tietokoneeseen.
-3. Kytke XLR-johdot vasemman yläreunan `LINE IN` -portteihin.
-4. Säädä mikserin säätimet lähtökohtaisesti arvoon 0 (osoitin osoittaa suoraan ylös, paitsi COMP-asetus kello 7).
-5. Paina oikean alareunan `TO MAIN MIX` -painike ala-asentoon. Ääni siirtyy tietokoneelle, kun tämä nappi on alhaalla. 
-6. Jos käytät kondensaattorimikrofoneja, jotka tarvitsevat Phantom-virtaa, niin paina punainen nappi alas. Langattomalla vastaaottimella ja heittomikrofonilla tätä ei tarvita, ne saavat virran omasta virtalähteestään.  
-7. Säädä mikrofonien `GAIN`-asetuksia niin, että mikrofoni ottaa puheen selvästi, mutta ääni ei vielä säröydy. Testaa myös kovemmilla äänenvoimakkuuksilla.
-8. Säädä alareunan `LEVEL`-asetuksilla kaikki mikserille tulevat äänilähteet keskenään balanssiin.
-9. Säädä oikean alareunan `MAIN MIX`-asetuksella tietokoneelle tulevan äänitulon voimakkuutta. 
+1. Kytke virtajohto takana olevaan `AC POWER IN` -porttiin. <span style="color:red">❶</span>
+2. Kytke micro USB-johto takaosan porttiin ja johdon toinen pää tietokoneeseen. <span style="color:red">❷</span>
+3. Kytke XLR-johdot vasemman yläreunan `LINE IN` -portteihin. <span style="color:red">❸</span>
+4. Säädä mikserin säätimet lähtökohtaisesti arvoon 0 (osoitin osoittaa suoraan ylös, paitsi COMP-asetus kello 7). <span style="color:red">❹</span>
+5. Paina oikean alareunan `TO MAIN MIX` -painike ala-asentoon. Ääni siirtyy tietokoneelle, kun tämä nappi on alhaalla. <span style="color:red">❺</span>
+6. Jos käytät kondensaattorimikrofoneja, jotka tarvitsevat Phantom-virtaa, niin paina punainen nappi alas. Langattomalla vastaanottimella ja heittomikrofonilla tätä ei tarvita, ne saavat virran omasta virtalähteestään. <span style="color:red">❻</span> 
+7. Säädä mikrofonien `GAIN`-asetuksia niin, että mikrofoni ottaa puheen selvästi, mutta ääni ei vielä säröydy. Testaa myös kovemmilla äänenvoimakkuuksilla. <span style="color:red">❼</span> 
+8. Säädä alareunan `LEVEL`-asetuksilla kaikki mikserille tulevat äänilähteet keskenään balanssiin. <span style="color:red">❽</span> 
+9. Säädä oikean alareunan `MAIN MIX`-asetuksella tietokoneelle tulevan äänitulon voimakkuutta. <span style="color:red">❾</span> 
 
 ### Käyttö tietokoneella
 
