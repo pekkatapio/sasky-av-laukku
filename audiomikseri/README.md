@@ -12,7 +12,7 @@ Jos käytät [langatonta vastaanotinta](../vastaanotin/README.md), niin ota se k
 
 ### audiomikseri päältä
 <p align="center">
-  <img src="top.png">
+  <img src="top.svg">
 </p>
 
 ### audiomikseri takaa
