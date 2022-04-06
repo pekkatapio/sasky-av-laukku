@@ -39,5 +39,5 @@ Jos käytät [langatonta vastaanotinta](../vastaanotin/README.md), niin ota se k
     2. Valitse *Luo uusi* ja anna nimeksi `audiomikseri`.
     3. Valitse *Laite*-kohtaan `Microphone (USB Audio CODEC)` ja paina *OK*.
     4. Audiomikseri toimii nyt yhtenä äänitulolaitteena OBS-ohjelmassa.
- * Teams-ohjelmassa valitse mikrofoniksi `USB Audio CODEC`. Huomaa, että Teams saattaa automaattisesti määritellä kaiuttimeksi audiomikserin, vaihda kaiutin kohtaan käyttämäsi kaiutin. 
+ * Teams-ohjelmassa valitse mikrofoniksi `USB Audio CODEC`. Huomaa, että Teams saattaa automaattisesti määritellä kaiuttimeksi audiomikserin, vaihda kaiutin-kohtaan käyttämäsi kaiutin. 
 
