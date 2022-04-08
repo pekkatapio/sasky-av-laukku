@@ -1,11 +1,10 @@
 ## av salkku
 * [kamera](kamera/README.md)
-* [video mixeri](videomikseri/README.md)
-* [audio mixeri](audiomikseri/README.md)
+* [videomikseri](videomikseri/README.md)
 * [heittomikrofoni](heittomikrofoni/README.md)
 * [mikrofoni vastaanotin](vastaanotin/README.md)
+* [audiomikseri](audiomikseri/README.md)
 * [streamdeck](streamdeck/README.md)
-* [iskunkestävä mikrofoni](mikrofoni/README.md)
 
 ## kuva
 <p align="center">
