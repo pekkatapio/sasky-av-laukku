@@ -12,7 +12,7 @@ Aseta ensin [kamera](../kamera/README.md) käyttökuntoon.
 
 ### videomikseri takaa
 <p align="center">
-  <img src="back.jpg">
+  <img src="back.svg">
 </p>
 
 ### videomikseri edestä
@@ -21,7 +21,7 @@ Aseta ensin [kamera](../kamera/README.md) käyttökuntoon.
 </p>
 
 ## Videomikserin käyttö
-1. Kiinnitä virtajohto laitteen takaosaan.
+1. Kiinnitä virtajohto laitteen takaosaan. <span style="color:red">❶</span>
 2. Kiinnitä USB-johto takaosan `USB WEBCAM` -porttiin ja liitä johdon toinen pää tietokoneeseen.
 3. Kiinnitä SDI-kaapeli takaosan `SDI IN` -porttiin. Halutessasi voit käyttää vaihtoehtoisesti HDMI-kaapelia, kytke kaapeli `HDMI IN` -porttiin.
 4. Valitse kaapelia vastaava kanava laitteen etuosasta. SDI-kaapelilla valitse kanava 1 ja HDMI-kaapelilla kanava 2. 
