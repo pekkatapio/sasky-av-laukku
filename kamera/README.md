@@ -1,7 +1,7 @@
 # Kamera
 käyttötarkoitusta ei varmaan tarvitse selittää.
 
-## Kamerna käyttöön tarvitaan
+## Kameran käyttöön tarvitaan
 * jalka
 * SDI kaapeli
 * virtajohto
