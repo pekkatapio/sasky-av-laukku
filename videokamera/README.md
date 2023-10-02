@@ -1,6 +1,6 @@
 # Videokamera
 
-Tässä ohjeessa neuvotaan, miten videokamera määritellään niin, että videokameran kuva siirretään videomikserille. Aseta [videomikseri](../videomikseri/) endin käyttökuntoon.
+Tässä ohjeessa neuvotaan, miten videokamera määritellään niin, että videokameran kuva siirretään videomikserille. Aseta [videomikseri](../videomikseri/) ensin käyttökuntoon.
 
 ## Videokameran käyttöön tarvitaan
 * virtajohto
