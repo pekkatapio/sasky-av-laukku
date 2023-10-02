@@ -2,8 +2,6 @@
 
 Videomikseriä käytetään videokameran kuvasignaalin siirtoon tietokoneelle.
 
-Aseta ensin [videokamera](../videokamera/README.md) käyttökuntoon.
-
 ## Videomikserin käyttöön tarvitaan
 * virtajohto
 * USB-johto (tyyppi A <-> tyyppi B)
@@ -29,9 +27,8 @@ Aseta ensin [videokamera](../videokamera/README.md) käyttökuntoon.
 ### Käyttö tietokoneella
  * Videomikseri näkyy automaattisesti tietokoneella `BLACKMAGIC` -nimisenä web-kamerana.
  * OBS-ohjelmassa saat lisättyä videomikserin seuraavasti:
-    1. Valitse *Lähteet (sources)* -> *Lisää* -> *??*.
+    1. Valitse *Lähteet (sources)* -> *+ (Lisää lähde)* -> *Videokaappauslaite*.
     2. Valitse *Luo uusi* ja anna nimeksi `videomikseri`.
     3. Valitse *Laite*-kohtaan `BLACKMAGIC` ja paina *OK*.
     4. Videomikseri toimii web-kamerana OBS-ohjelmassa.
  * Teams-ohjelmassa valitse käytettäväksi web-kameraksi `BLACKMAGIC`.
-
